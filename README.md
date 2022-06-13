@@ -4,7 +4,7 @@ The first year project is a simple 5 weeks work in which each group is affilitia
 
 I have mainly worked on two aspects: the POWER PCB and the driver code for the motors.
 
-# POWER-PCB
+## POWER-PCB
 The power pcb has seen many developpement throught the 5 weeks, mainly because of some drivers unavailability. This has forced us to adapt the boards each time to the new potential chips. 
 I have mostly spent time on reading datasheets and trying to figure out a way to optimally route all components. Personnaly, I have found the task challenging, but I think that it was mainly due to my lack of experience and overusing the autorouting tool, which, to be honest is not as good as it was thaught to be. However, I have learned many tips and tricks that were in no way disclosed during the 3 hours course. Mr BARES's help was priceless during this.
 The Software I used was Eagle. Other alternatives are also worthwhile(Fusion360, ProfiCad...) as I've witnessed the teacher and others use them. I will commit the whole project so you can observe how it has evolved(last version is named MK2). Further and more precise technical descriptions will be also be attached.
