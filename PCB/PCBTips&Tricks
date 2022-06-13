@@ -1,0 +1,32 @@
+## Traces'width
+Traces' width should be proportional to the current, and expected operating temperature raise.
+The following link proves pretty useful and effective in doing so: https://www.4pcb.com/trace-width-calculator.html
+
+
+## Distance between traces
+There should be enough distanec between traces especially in HF(high frequency).
+
+
+## Corner's shapes
+The angles should be smoothened so as to avoid energy radiation especially in HF.
+
+
+## Power condos and resistaces
+Should as close as possible to the pins they are connected to.
+
+
+## library making and updating
+It is a primordial skill a pcb designer should have. I have personnaly followed YT tutorial:https://www.youtube.com/watch?v=yvRGmltr_P8
+
+
+## GND planes
+Should be linked using vias.
+Impose restrict patches on some components so as to have an easier time soldering.
+
+
+
+## Label using in a schematic
+Use labels so as to have a simplified and easy to read schematic. Instead of linking every component, use labels instead.
+You basically just have have to give the same signals the same labels and let the magic operate.
+
+
